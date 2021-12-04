@@ -1,4 +1,4 @@
 a = 1
-b = 2
+b = 22
 c = a + b
 print(c)
